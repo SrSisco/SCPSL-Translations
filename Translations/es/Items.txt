@@ -41,3 +41,4 @@
 45~SCP-244-B~Un jarrón ancestral, congelado al tacto. Crea una larga nube de niebla helada cuando es colocado.
 46~SCP-1853~Mejora la habilidad de manipulación de las armas con el coste de un mayor uso de resistencia.
 47~Disruptor de Partículas 3-X
+48~COM-45
